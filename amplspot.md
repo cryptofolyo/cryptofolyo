@@ -61,6 +61,7 @@ and so on and so forth. Maximum 60 months to earn additional 60% incentive, the 
 To incentivise invitation into the pool anyone joining the pool with an invite link will get an additional 10% in terms of dividend That is if they deserve to get 10% dividend they will get 11% 
 If John joins the pool with the invitation of Alice then alice gets 5% of all the dividends going to John That means out of the 11% Alice get 5% of that 11% meaning 0.55% during each dividend transfer to John. 
 The more number of people Alice educate and make awareness and invite into the protocol the more free dividends Alice can earn. Alice need not be an investing member of the pool to invite another member into the pool. This means that Alice can start earning dividends with zero investment. 
+This way it is incentivised to join as an invitee and also incentivised to train and invite other people to join pool.
 
 ### Flexibility and Liquidity:
 
