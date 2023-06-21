@@ -14,6 +14,7 @@ The user can Unlock the same quantity of SPOT from the pool after a minimum lock
 
 - To become the bedrock of SPOT Demand in DEFI. Half of the SPOT converted to AMPL leading to increased AMPL demand as well.
 - Increase the buying into SPOT during negative rebasing by means of incentivising investors buying into dip and doing dollar cost averaging on AMPL ecosystem.
+- This will become like a clock winding its springs. The more negative it goes the more incentive to join pool. The more duration it stays negative the more buying can happen in discounts. So this might eventually make AMPL negative rebase potential very small. 
 - Locking the AMPL expansion profits systematically every week and thereby estabilishing a yearly yeild on SPOT
 - Provide a track record in the form of a chart of dividend percentage every week on SPOT tokens utilising the potential of AMPL positive rebase. 
 
