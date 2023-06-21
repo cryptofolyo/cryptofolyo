@@ -56,6 +56,11 @@ minimum locking period 1 month - no incentive
 3 months get 3% incentive
 and so on and so forth. Maximum 60 months to earn additional 60% incentive, the higher the time lock the more the risk taken by investor and the more the stability of the pool so higher the incentive.
 
+### invitation protocol 
+To incentivise invitation into the pool anyone joining the pool with an invite link will get an additional 10% in terms of dividend That is if they deserve to get 10% dividend they will get 11% 
+If John joins the pool with the invitation of Alice then alice gets 5% of all the dividends going to John That means out of the 11% Alice get 5% of that 11% meaning 0.55% during each dividend transfer to John. 
+The more number of people Alice educate and make awareness and invite into the protocol the more free dividends Alice can earn. Alice need not be an investing member of the pool to invite another member into the pool. This means that Alice can start earning dividends with zero investment. 
+
 ### Flexibility and Liquidity:
 
 The AMPL-SPOT Pool also offers flexibility to investors. Those who wish to unlock their investment can do so after their lock in periods if the pool is in a profitable state. This feature provides liquidity and control over investments, allowing investors to adjust their holdings based on their financial goals and market conditions. If the pool is in negative the dividends are not issued and the investments cannot be unlocked and the investor has to wait for positive rebasing. It ensures that investors all will not empty the pool in a negative state. All will have to wait. 
