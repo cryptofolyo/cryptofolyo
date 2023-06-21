@@ -15,7 +15,7 @@ The user can Unlock the same quantity of SPOT from the pool after a minimum lock
 - To become the bedrock of SPOT Demand in DEFI. Half of the SPOT converted to AMPL leading to increased AMPL demand as well.
 - Increase the buying into SPOT during negative rebasing by means of incentivising investors buying into dip and doing dollar cost averaging on AMPL ecosystem.
 - This will become like a clock winding its springs. The more negative it goes the more incentive to join pool. The more duration it stays negative the more buying can happen in discounts. So this might eventually make AMPL negative rebase potential very small. 
-- Locking the AMPL expansion profits systematically every week and thereby estabilishing a yearly yeild on SPOT
+- Locking the AMPL expansion profits systematically every week and thereby establishing a yearly yield on SPOT
 - Provide a track record in the form of a chart of dividend percentage every week on SPOT tokens utilising the potential of AMPL positive rebase. 
 
 ### A Balanced Investment Approach:
@@ -79,13 +79,13 @@ This will be divided across the developer team members based on the weightage fo
 
 ## -----> ----->  Case 2  Negative pool value ---> 
 ---> End of second week SPOT total continues at 10000 -- > AMPL 11000 Rebasing to 9000 AMPL --->  In SPOT Value 9000 AMPL if it equals 9000 SPOT --->The loss of the pool in terms of SPOT is now at 1000 SPOT - So  the pool continues without emitting any dividend. Pool is also locked for any redemption if the Pool is negative so that there is no run on the pool. 
------> -----> ---> Enters JOHN ---->  JOHN comes and invest 10000 AMPL But he is a late comer coming during negative rebase ----> ---->  If JOHN came before the rebase he would have gotten 33% of the POOL but as he is late he is now lucky to get a larger slice of the pool and also gain some incentive in dividend percentage. Pool Value is now at 95% as the total remaining valueof pool is equal to 10000 SPOT (ALICE + BOB) Value of 10000 AMPL is now 9000 SPOT -- > So a total pool value of 19000 SPOT -- >  So John is adding 10000 SPOT to 19000 SPOT thereby having a claim to 34.48% ( 10000/29000 *100 ) of the pool only. And as the pool is trading in loss JOHN will get an incentive of 5% Loading incentive on the 34.48% that means he will get a higher dividend claim of  38.10%  ( 34.48 +10% of 34.48 ) That means BOB and ALICE pool percentage will be (100- 38.10)/2 = 30.95% each. Unlucky for ALICE and BOB but they get JOHN as a supporter to average the pool without themselves investing any further.
+-----> -----> ---> Enters JOHN ---->  JOHN comes and invest 10000 AMPL But he is a late comer coming during negative rebase ----> ---->  If JOHN came before the rebase he would have gotten 33% of the POOL but as he is late he is now lucky to get a larger slice of the pool and also gain some incentive in dividend percentage. Pool Value is now at 95% as the total remaining value of pool is equal to 10000 SPOT (ALICE + BOB) Value of 10000 AMPL is now 9000 SPOT -- > So a total pool value of 19000 SPOT -- >  So John is adding 10000 SPOT to 19000 SPOT thereby having a claim to 34.48% ( 10000/29000 *100 ) of the pool only. And as the pool is trading in loss JOHN will get an incentive of 5% Loading incentive on the 34.48% that means he will get a higher dividend claim of  38.10%  ( 34.48 +10% of 34.48 ) That means BOB and ALICE pool percentage will be (100- 38.10)/2 = 30.95% each. Unlucky for ALICE and BOB but they get JOHN as a supporter to average the pool without themselves investing any further.
 
 And anyways JOHN and BOB and ALICE all will redeem exactly the same SPOT after maturity that is 10000 SPOT
 
 ## -----> ----->  Case 3 Higher time lock ---> 
 Suppose in the same above described negative pool value scenario John locks 10000 SPOT for 30 months. 
-So that means John deserve additional 30% incentive on dividends. Means instead of 38.10% he gets 30% additional ( 1.3 x 38.10 ) = His pool value is 49.53% This will generate a competition amongst the pool members to go for a higher time lock after each unlock. This longer time locks will increase the stability of the pool. ( Which is already stable because redepmtions are not possible for negative pool values anyway ) 
+So that means John deserve additional 30% incentive on dividends. Means instead of 38.10% he gets 30% additional ( 1.3 x 38.10 ) = His pool value is 49.53% This will generate a competition amongst the pool members to go for a higher time lock after each unlock. This longer time locks will increase the stability of the pool. ( Which is already stable because redemptions are not possible for negative pool values anyway ) 
 
 
 
