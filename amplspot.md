@@ -59,6 +59,11 @@ and so on and so forth. Maximum 60 months to earn additional 60% incentive, the 
 
 The AMPL-SPOT Pool also offers flexibility to investors. Those who wish to unlock their investment can do so after their lock in periods if the pool is in a profitable state. This feature provides liquidity and control over investments, allowing investors to adjust their holdings based on their financial goals and market conditions. If the pool is in negative the dividends are not issued and the investments cannot be unlocked and the investor has to wait for positive rebasing. It ensures that investors all will not empty the pool in a negative state. All will have to wait. 
 
+### Developer Team Incentives:
+During each dividend issue 2% of the total dividend issued is issued to the developer account.
+This will be divided across the developer team members based on the weightage for each member of the team. 
+
+
 ### Example Scenarios
 -> Alice buy 10000 SPOT 
 -> Alice locks 10000 SPOT in elastic pool for minimum of 1 month without any incentive for time lock. 
@@ -80,6 +85,8 @@ And anyways JOHN and BOB and ALICE all will redeem exactly the same SPOT after m
 ## -----> ----->  Case 3 Higher time lock ---> 
 Suppose in the same above described negative pool value scenario John locks 10000 SPOT for 30 months. 
 So that means John deserve additional 30% incentive on dividends. Means instead of 38.10% he gets 30% additional ( 1.3 x 38.10 ) = His pool value is 49.53% This will generate a competition amongst the pool members to go for a higher time lock after each unlock. This longer time locks will increase the stability of the pool. ( Which is already stable because redepmtions are not possible for negative pool values anyway ) 
+
+
 
 ## Conclusion:
 
