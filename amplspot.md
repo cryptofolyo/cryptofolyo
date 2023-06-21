@@ -17,6 +17,7 @@ The user can Unlock the same quantity of SPOT from the pool after a minimum lock
 - This will become like a clock winding its springs. The more negative it goes the more incentive to join pool. The more duration it stays negative the more buying can happen in discounts. So this might eventually make AMPL negative rebase potential very small. 
 - Locking the AMPL expansion profits systematically every week and thereby establishing a yearly yield on SPOT
 - Provide a track record in the form of a chart of dividend percentage every week on SPOT tokens utilising the potential of AMPL positive rebase. 
+- Invite protocol to incentivise young college students to join the pool without investment but to make money in terms of dividends and spreading awareness.
 
 ### A Balanced Investment Approach:
 
