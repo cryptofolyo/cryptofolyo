@@ -2,7 +2,20 @@
 
 ## Introduction:
 
-In the ever-evolving world of cryptocurrency investments, a new opportunity has emerged that combines stability and growth potential. The AMPL-SPOT Pool offers investors the chance to participate in a pool where SPOT tokens can be parked, converted into AMPL tokens, and locked for a specific period. This innovative investment option aims to provide diversification, profit-sharing, and long-term stability. Let's explore the key features and benefits of the AMPL-SPOT Pool.
+In the ever-evolving world of cryptocurrency investments, a new opportunity has emerged that combines stability and growth potential. The AMPL-SPOT Pool offers investors the chance to participate in a pool where SPOT tokens can be parked, half converted into AMPL tokens, and locked for a specific period. This innovative investment option aims to provide diversification, profit-sharing, and long-term stability. Let's explore the key features and benefits of the AMPL-SPOT Pool.
+
+### The target user of the pool is a defi stable coin investor aiming higher returns per annum at higher risk.
+
+The user can Lock SPOT into the pool
+The user can earn dividend as SPOT from the Pool
+The user can Unlock the same quantity of SPOT from the pool after a minimum lock in of 1 month ( Only if Pool is positive )
+
+## Objectives of the Pool
+
+- To become the bedrock of SPOT Demand in DEFI. Half of the SPOT converted to AMPL leading to increased AMPL demand as well.
+- Increase the buying into SPOT during negative rebasing by means of incentivising investors buying into dip and doing dollar cost averaging on AMPL ecosystem.
+- Locking the AMPL expansion profits systematically every week and thereby estabilishing a yearly yeild on SPOT
+- Provide a track record in the form of a chart of dividend percentage every week on SPOT tokens utilising the potential of AMPL positive rebase. 
 
 ### A Balanced Investment Approach:
 
