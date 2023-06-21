@@ -92,7 +92,9 @@ And anyways JOHN and BOB and ALICE all will redeem exactly the same SPOT after m
 Suppose in the same above described negative pool value scenario John locks 10000 SPOT for 30 months. 
 So that means John deserve additional 30% incentive on dividends. Means instead of 38.10% he gets 30% additional ( 1.3 x 38.10 ) = His pool value is 49.53% This will generate a competition amongst the pool members to go for a higher time lock after each unlock. This longer time locks will increase the stability of the pool. ( Which is already stable because redemptions are not possible for negative pool values anyway ) 
 
-
+## -----> ----->  Case 4 Alice invites John to the pool ---> 
+Suppose in the same above described negative pool value scenario John locks 10000 SPOT for 30 months. 
+So that means John deserve additional 30% incentive on dividends. Means instead of 38.10% he gets 30% additional ( 1.3 x 38.10 ) = His pool value is 49.53% This will generate a competition amongst the pool members to go for a higher time lock after each unlock. This longer time locks will increase the stability of the pool. ( Which is already stable because redemptions are not possible for negative pool values anyway ) In this case John should get an additional bonus of 10% on his dividend. So If John invested in the above scenario with negative pool value and and with 30 months time lock. and then invited by alice. It means instead of 49.53% he will get additional 10% of 49.53% That is 54.48% . ( So John = 54.48 Alice = 22.76% Bob = 22.76% ) Now each time John gets 54.48% dividend. 5% of that that is 2.72% goes straight to alice. and John gets only 51.76% So effectively John gets 51.76% Alice gets 25.48% (22.72+2.72) and BOB gets 22.76% --> where 22.76 + 51.76+25.48 = 100 and where alice gets a higher dividend because of the invite and John wouldnt have gotten the invite incentive if he came on his own and not as invited. This incentivise everyone to invite more and more people into the pool.
 
 ## Conclusion:
 
